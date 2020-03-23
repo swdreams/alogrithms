@@ -1,4 +1,4 @@
-#Find the minimum number of moves to reach end of the array
+# Find the minimum number of moves to reach end of the array
 
 Given an array arr[] of size N where every element is from the range [0, 9]. The task is to reach the last index of the array starting from the first index. From ith index we can move to (i – 1)th, (i + 1)th or to any jth index where j ≠ i and arr[j] = arr[i].
 
